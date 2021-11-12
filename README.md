@@ -1,2 +1,3 @@
 # excel_row_merger
-How to merge rows in Excel without losing data
+
+This Python script can be used to merge Excel rows without losing data.
