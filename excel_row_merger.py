@@ -1,5 +1,5 @@
 # excel_row_merger
-# Tuomas Eerola 2021
+# Tuomas Eerola - 2021
 #
 # Keep the value of the index Column. Merge other cells without losing data.
 
